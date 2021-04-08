@@ -25,5 +25,5 @@ twitter.com/LinusTech
 youtube.com/LinusTechTips
 
 Created by Ridhwaan001
-github.com/RidhwaanCodesStuff (Mostly private repos)
+github.com/Ridhwaan001 (Mostly private repos)
 twitter.com/Ridhwaan001
