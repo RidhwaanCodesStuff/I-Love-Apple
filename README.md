@@ -1,3 +1,7 @@
+### This is one of my early repositories, i have better and new repos now. 
+*i have changed.*
+
+
 # I Love Apple
 An app made for Apple fans
 
